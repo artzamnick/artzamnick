@@ -7,11 +7,11 @@ Fullstack developer (Trainee/Intern) with a foundational skill set in HTML, CSS,
 JavaScript | HTML5 | CSS3
 
 💻Featured Projects
-✅[WebStudio] (https://github.com/artzamnick/WebStudio/tree/main)
+✅[WebStudio](https://github.com/artzamnick/WebStudio/tree/main)
  – a responsive multi-page website created using HTML, CSS, and JavaScript. The project includes semantic layout, adaptive design, optimized images, and structured sections such as Studio, Portfolio, Team, and Footer.
- ✅[CoffeeJoy-team] (https://github.com/artzamnick/CoffeeJoy-team-)
+ ✅[CoffeeJoy-team](https://github.com/artzamnick/CoffeeJoy-team-)
  – a team-based web project built with HTML, CSS, and JavaScript. Includes responsive layout, structured page sections, interactive UI elements, and clean component organization. Contributed as a Scrum Master, managing task planning, workflow organization, and communication within the team.
- ✅[Pixabay-Image-Finder] (https://github.com/artzamnick/Pixabay-Image-Finder)
+ ✅[Pixabay-Image-Finder](https://github.com/artzamnick/Pixabay-Image-Finder)
  – a web application built with JavaScript, HTML, and CSS that allows users to search for images using the Pixabay API. Implemented features include image search, displaying results with pagination, and viewing images in a responsive, user-friendly layout.
  
  🗣️ Languages
