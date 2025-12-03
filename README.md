@@ -15,4 +15,7 @@ JavaScript | HTML5 | CSS3
  – a web application built with JavaScript, HTML, and CSS that allows users to search for images using the Pixabay API. Implemented features include image search, displaying results with pagination, and viewing images in a responsive, user-friendly layout.
  
  🗣️ Languages
-English
+- English (https://img.shields.io/badge/Polish-A2-lightgrey?style=flat-square)
+- Ukrainian (https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
+- Polish (https://img.shields.io/badge/Polish-A2-lightgrey?style=flat-square)
+- Russian (https://img.shields.io/badge/Polish-C2-lightgreen?style=flat-square)
