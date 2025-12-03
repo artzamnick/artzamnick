@@ -4,7 +4,7 @@ Junior Front-end developer HTML5 | CSS3 |  JavaScript
 Fullstack developer (Trainee/Intern) with a foundational skill set in HTML, CSS, and JavaScript. Focused on building user interfaces, implementing client-side functionality, and learning backend development to create complete web applications. Experienced with several training projects completed during the learning process and continuously improving my technical stack. Committed to writing clean code, using Git for version control, and growing as a Fullstack developer.
 
 🧰 Tech Stack  
-JavaScript | HTML5 | CSS3
+- JavaScript | HTML5 | CSS3
 
 💻Featured Projects
 - [WebStudio](https://github.com/artzamnick/WebStudio/tree/main)
@@ -19,3 +19,6 @@ JavaScript | HTML5 | CSS3
 - ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 - ![Polish](https://img.shields.io/badge/Polish-A2-lightgrey?style=flat-square)
 - ![Russian](https://img.shields.io/badge/Russian-C2-lightgreen?style=flat-square)
+
+📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/artem-zamrii/) | [Telegram](https://t.me/svii_adm) | [Email](a.m.zamriy@gmail.com)
