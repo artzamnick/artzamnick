@@ -10,7 +10,7 @@ Fullstack developer (Trainee/Intern) with a foundational skill set in HTML, CSS,
  – paw-haven — a team-based frontend project built as a single-page website.
 The project focuses on clean semantic markup, responsive layout, accessibility, and collaborative development using GitHub workflow (feature branches, pull requests, and code reviews).
 My contribution: implementation of the Footer section and project documentation (README) via merged pull requests.
- - [CoffeeJoy-team](https://github.com/DronSofiia/project-CoffeeJoy10)
+ - [CoffeeJoy-team](https://dronsofiia.github.io/project-CoffeeJoy10/)
  – a team-based web project built with HTML, CSS, and JavaScript. Includes responsive layout, structured page sections, interactive UI elements, and clean component organization. Contributed as a Scrum Master, managing task planning, workflow organization, and communication within the team.
 - [WebStudio](https://github.com/artzamnick/WebStudio/tree/main)
  – a responsive multi-page website created using HTML, CSS, and JavaScript. The project includes semantic layout, adaptive design, optimized images, and structured sections such as Studio, Portfolio, Team, and Footer.
