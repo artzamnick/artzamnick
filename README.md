@@ -12,7 +12,7 @@ The project focuses on clean semantic markup, responsive layout, accessibility, 
 My contribution: implementation of the Footer section and project documentation (README) via merged pull requests.
  - [CoffeeJoy-team](https://dronsofiia.github.io/project-CoffeeJoy10/)
  – a team-based web project built with HTML, CSS, and JavaScript. Includes responsive layout, structured page sections, interactive UI elements, and clean component organization. Contributed as a Scrum Master, managing task planning, workflow organization, and communication within the team.
-- [WebStudio](https://github.com/artzamnick/WebStudio/tree/main)
+- [WebStudio](https://artzamnick.github.io/WebStudio/)
  – a responsive multi-page website created using HTML, CSS, and JavaScript. The project includes semantic layout, adaptive design, optimized images, and structured sections such as Studio, Portfolio, Team, and Footer.
  
  🗣️ Languages
