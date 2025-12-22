@@ -6,8 +6,10 @@ Fullstack developer (Trainee/Intern) with a foundational skill set in HTML, CSS,
 - JavaScript | HTML5 | CSS3
 
 💻Featured Projects
-- [Pixabay-Image-Finder](https://github.com/artzamnick/Pixabay-Image-Finder)
- – a web application built with JavaScript, HTML, and CSS that allows users to search for images using the Pixabay API. Implemented features include image search, displaying results with pagination, and viewing images in a responsive, user-friendly layout.
+- [paw-haven](https://wiktor-bruy.github.io/paw-haven/)
+ – paw-haven — a team-based frontend project built as a single-page website.
+The project focuses on clean semantic markup, responsive layout, accessibility, and collaborative development using GitHub workflow (feature branches, pull requests, and code reviews).
+My contribution: implementation of the Footer section and project documentation (README) via merged pull requests.
  - [CoffeeJoy-team](https://github.com/DronSofiia/project-CoffeeJoy10)
  – a team-based web project built with HTML, CSS, and JavaScript. Includes responsive layout, structured page sections, interactive UI elements, and clean component organization. Contributed as a Scrum Master, managing task planning, workflow organization, and communication within the team.
 - [WebStudio](https://github.com/artzamnick/WebStudio/tree/main)
