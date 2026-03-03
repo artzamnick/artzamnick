@@ -1,4 +1,4 @@
-👋 Hi, I'm Artem - Junior Front-end developer HTML5 | CSS3 |  JavaScript | TypeScript
+👋 Hi, I'm Artem - Junior Front-end developer HTML5 | CSS3 |  JavaScript | TypeScript | React.js | Next.js 2.0
 
 Fullstack developer (Trainee/Intern) with a foundational skill set in HTML, CSS, and JavaScript. Focused on building user interfaces, implementing client-side functionality, and learning backend development to create complete web applications. Experienced with several training projects completed during the learning process and continuously improving my technical stack. Committed to writing clean code, using Git for version control, and growing as a Fullstack developer.
 
@@ -6,6 +6,8 @@ Fullstack developer (Trainee/Intern) with a foundational skill set in HTML, CSS,
 - JavaScript | HTML5 | CSS3
 
 💻Featured Projects
+- [NoteHub](https://09-auth-gold-beta.vercel.app)
+– NoteHub — a full-stack notes management application built with Next.js (App Router), React, TypeScript, and React Query. Features authentication, protected routes, category filtering, pagination, debounced search, and responsive design. Includes SSR data hydration, API routes, and cookie-based authentication.
 - [paw-haven](https://wiktor-bruy.github.io/paw-haven/)
  – paw-haven — a team-based frontend project built as a single-page website.
 The project focuses on clean semantic markup, responsive layout, accessibility, and collaborative development using GitHub workflow (feature branches, pull requests, and code reviews).
