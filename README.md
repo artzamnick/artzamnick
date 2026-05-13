@@ -20,10 +20,24 @@ My contribution: implementation of the Footer section and project documentation 
  – a responsive multi-page website created using HTML, CSS, and JavaScript. The project includes semantic layout, adaptive design, optimized images, and structured sections such as Studio, Portfolio, Team, and Footer.
  
  ## 🗣️ Languages
-- ![English](https://img.shields.io/badge/English-A2-lightgrey?style=flat-square)
-- ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
-- ![Polish](https://img.shields.io/badge/Polish-A2-lightgrey?style=flat-square)
-- ![Russian](https://img.shields.io/badge/Russian-C2-lightgreen?style=flat-square)
+<p>
+  <img src="https://img.shields.io/badge/Ukrainian-Native-blue?style=for-the-badge&logo=googletranslate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Russian-C2-green?style=for-the-badge&logo=googletranslate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Polish-A2-red?style=for-the-badge&logo=googletranslate&logoColor=white" />
+  <img src="https://img.shields.io/badge/English-A2-lightgrey?style=for-the-badge&logo=googletranslate&logoColor=white" />
+</p>
 
 ## 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/artem-zamrii/) | [Telegram](https://t.me/svii_adm) | [Email](a.m.zamriy@gmail.com)
+<p>
+  <a href="https://linkedin.com/in/ТВОЄ_ПОСИЛАННЯ">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://t.me/ТВІЙ_ТГ">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+
+  <a href="mailto:ТВІЙ_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
