@@ -1,4 +1,7 @@
 <h1 align="center">👋 Hi, I'm Artem</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Junior+Fullstack+Developer;React+%7C+Next.js+%7C+TypeScript;Building+modern+web+applications" />
+</p>
 
 <h3 align="center">
 Junior Fullstack Developer from Ukraine
@@ -51,7 +54,6 @@ My contribution: implementation of the Footer section and project documentation 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artzamnick&show_icons=true&theme=tokyonight"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artzamnick&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artzamnick&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artzamnick&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
