@@ -20,7 +20,10 @@ My contribution: implementation of the Footer section and project documentation 
  – a responsive multi-page website created using HTML, CSS, and JavaScript. The project includes semantic layout, adaptive design, optimized images, and structured sections such as Studio, Portfolio, Team, and Footer.
  
  🗣️ Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artzamnick&layout=compact&theme=tokyonight)
+- ![English](https://img.shields.io/badge/English-A2-lightgrey?style=flat-square)
+- ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
+- ![Polish](https://img.shields.io/badge/Polish-A2-lightgrey?style=flat-square)
+- ![Russian](https://img.shields.io/badge/Russian-C2-lightgreen?style=flat-square)
 
 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/artem-zamrii/) | [Telegram](https://t.me/svii_adm) | [Email](a.m.zamriy@gmail.com)
