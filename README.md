@@ -9,6 +9,8 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mongodb,git,github,vscode,figma" />
 </p>
 
+
+
 ## 💻 Featured Projects
 
 <details>
@@ -139,6 +141,8 @@ Responsive multi-page website with semantic structure, adaptive design, optimize
 
 </details>
 
+
+
  ## 🗣️ Languages
 <p>
   <img src="https://img.shields.io/badge/Ukrainian-Native-blue?style=for-the-badge&logo=googletranslate&logoColor=white" />
@@ -146,6 +150,8 @@ Responsive multi-page website with semantic structure, adaptive design, optimize
   <img src="https://img.shields.io/badge/Polish-A2-red?style=for-the-badge&logo=googletranslate&logoColor=white" />
   <img src="https://img.shields.io/badge/English-A2-lightgrey?style=for-the-badge&logo=googletranslate&logoColor=white" />
 </p>
+
+
 
 ## 📫 How to reach me
 <p>
@@ -159,6 +165,8 @@ Responsive multi-page website with semantic structure, adaptive design, optimize
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+
 
 ## 📊 GitHub Stats
 
