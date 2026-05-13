@@ -1,15 +1,10 @@
 <h1 align="center">👋 Hi, I'm Artem</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Junior+Fullstack+Developer;React+%7C+Next.js+%7C+TypeScript;Building+modern+web+applications" />
-</p>
-
-<h3 align="center">
-Junior Fullstack Developer from Ukraine
-</h3>
 
 <p align="center">
-React • Next.js • TypeScript • Node.js • MongoDB
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Junior+Fullstack+Developer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+MongoDB+%7C+REST+API" />
 </p>
+
+<h3 align="center">Junior Fullstack Developer from Ukraine 🇺🇦</h3>
 
 ## 🧰 Tech Stack
 <p align="left">
