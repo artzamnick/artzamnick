@@ -145,10 +145,10 @@ Responsive multi-page website with semantic structure, adaptive design, optimize
 
  ## 🗣️ Languages
 <p>
-  <img src="https://img.shields.io/badge/Ukrainian-Native-blue?style=for-the-badge&logo=googletranslate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Russian-C2-green?style=for-the-badge&logo=googletranslate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Polish-A2-red?style=for-the-badge&logo=googletranslate&logoColor=white" />
-  <img src="https://img.shields.io/badge/English-A2-lightgrey?style=for-the-badge&logo=googletranslate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ukrainian-Native-FFD700?style=for-the-badge&logo=googletranslate&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Russian-C2-009933?style=for-the-badge&logo=googletranslate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Polish-A2-DC143C?style=for-the-badge&logo=googletranslate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/English-A2-4169E1?style=for-the-badge&logo=googletranslate&logoColor=white"/>
 </p>
 
 
