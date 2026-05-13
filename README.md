@@ -41,7 +41,6 @@ Team-based pregnancy support web application built with Next.js, React, TypeScri
 
 </details>
 
----
 
 <details>
 <summary><b>📝 NoteHub</b> — Fullstack Notes App</summary>
@@ -69,7 +68,6 @@ Fullstack notes management application built with Next.js App Router, React Quer
 
 </details>
 
----
 
 <details>
 <summary><b>🐾 Paw Haven</b> — Team Frontend Project</summary>
@@ -93,7 +91,6 @@ Team-based frontend project focused on semantic markup, accessibility, responsiv
 
 </details>
 
----
 
 <details>
 <summary><b>☕ CoffeeJoy</b> — Coffee Shop Landing Page</summary>
@@ -118,7 +115,6 @@ Responsive coffee shop landing page with interactive UI elements and adaptive la
 
 </details>
 
----
 
 <details>
 <summary><b>🎨 WebStudio</b> — Responsive Multi-page Website</summary>
