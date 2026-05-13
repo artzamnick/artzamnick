@@ -4,7 +4,7 @@ Fullstack developer with a foundational skill set in HTML, CSS, and JavaScript. 
 
 🧰 Tech Stack  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,mongodb,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mongodb,git,github,vscode,figma" />
 </p>
 
 💻Featured Projects
@@ -20,10 +20,7 @@ My contribution: implementation of the Footer section and project documentation 
  – a responsive multi-page website created using HTML, CSS, and JavaScript. The project includes semantic layout, adaptive design, optimized images, and structured sections such as Studio, Portfolio, Team, and Footer.
  
  🗣️ Languages
-- ![English](https://img.shields.io/badge/English-A2-lightgrey?style=flat-square)
-- ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
-- ![Polish](https://img.shields.io/badge/Polish-A2-lightgrey?style=flat-square)
-- ![Russian](https://img.shields.io/badge/Russian-C2-lightgreen?style=flat-square)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artzamnick&layout=compact&theme=tokyonight)
 
 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/artem-zamrii/) | [Telegram](https://t.me/svii_adm) | [Email](a.m.zamriy@gmail.com)
