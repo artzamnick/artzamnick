@@ -5,6 +5,7 @@
 </p>
 
 ## 🧰 Tech Stack
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mongodb,git,github,vscode,figma" />
 </p>
@@ -144,6 +145,7 @@ Responsive multi-page website with semantic structure, adaptive design, optimize
 
 
  ## 🗣️ Languages
+ 
 <p>
   <img src="https://img.shields.io/badge/Ukrainian-Native-FFD700?style=for-the-badge&logo=googletranslate&logoColor=black"/>
   <img src="https://img.shields.io/badge/Russian-C2-009933?style=for-the-badge&logo=googletranslate&logoColor=white"/>
@@ -154,14 +156,9 @@ Responsive multi-page website with semantic structure, adaptive design, optimize
 
 
 ## 📫 How to reach me
+
 <p>
-  <a href="https://www.linkedin.com/in/artem-zamrii/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a><a href="https://t.me/swii_adm" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a><a href="mailto:a.m.zamriy@gmail.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/artem-zamrii/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://t.me/swii_adm"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a><a href="mailto:a.m.zamriy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 
