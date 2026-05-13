@@ -14,6 +14,8 @@ React • Next.js • TypeScript • Node.js • MongoDB
 </p>
 
 ## 💻 Featured Projects
+- [Leleka](https://project-1-front-nu.vercel.app)
+– a team-based pregnancy support web application built with Next.js, React, TypeScript, and modern frontend architecture. Features themed UI, dashboard analytics, diary/task management, responsive modal system, and adaptive loaders. My contribution: implementation of the ConfirmationModal component, Loader system, and project documentation (README) via collaborative GitHub workflow.
 - [NoteHub](https://09-auth-gold-beta.vercel.app)
 – NoteHub — a full-stack notes management application built with Next.js (App Router), React, TypeScript, and React Query. Features authentication, protected routes, category filtering, pagination, debounced search, and responsive design. Includes SSR data hydration, API routes, and cookie-based authentication.
 - [paw-haven](https://wiktor-bruy.github.io/paw-haven/)
