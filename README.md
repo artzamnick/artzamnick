@@ -1,14 +1,11 @@
-<h1 align="left">👋 Hi, I'm Artem</h1>
+<h1 align="center">👋 Hi, I'm Artem</h1>
 
-<h3 align="left">
-Junior Fullstack Developer | React • Next.js • Node.js
+<h3 align="center">
+Junior Fullstack Developer from Ukraine 🇺🇦
 </h3>
 
-<p align="left">
-Passionate about building modern web applications with clean UI, scalable architecture, and responsive design.
-Focused on frontend development with React and Next.js while actively growing backend skills with Node.js, Express, and MongoDB.
-
-I enjoy turning ideas into real projects, improving code quality, and collaborating in team environments using Git workflows and Agile practices.
+<p align="center">
+React • Next.js • TypeScript • Node.js • MongoDB
 </p>
 
 ## 🧰 Tech Stack
@@ -41,11 +38,9 @@ My contribution: implementation of the Footer section and project documentation 
   <a href="https://linkedin.com/in/ТВОЄ_ПОСИЛАННЯ">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="https://t.me/ТВІЙ_ТГ">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-
   <a href="mailto:ТВІЙ_EMAIL">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
