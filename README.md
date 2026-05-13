@@ -3,7 +3,9 @@
 Fullstack developer with a foundational skill set in HTML, CSS, and JavaScript. Focused on building user interfaces, implementing client-side functionality, and learning backend development to create complete web applications. Experienced with several training projects completed during the learning process and continuously improving my technical stack. Committed to writing clean code, using Git for version control, and growing as a Fullstack developer.
 
 🧰 Tech Stack  
-- JavaScript | HTML5 | CSS3
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,mongodb,git,github,vscode,figma" />
+</p>
 
 💻Featured Projects
 - [NoteHub](https://09-auth-gold-beta.vercel.app)
