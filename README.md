@@ -37,13 +37,21 @@ My contribution: implementation of the Footer section and project documentation 
 
 ## 📫 How to reach me
 <p>
-  <a href="https://linkedin.com/in/[ТВОЄ_ПОСИЛАННЯ](https://www.linkedin.com/in/artem-zamrii/)">
+  <a href="https://www.linkedin.com/in/artem-zamrii/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://t.me/https://t.me/swii_adm">
+  <a href="https://t.me/swii_adm">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="mailto:a.m.zamriy@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artzamnick&show_icons=true&theme=tokyonight"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artzamnick&layout=compact&theme=tokyonight"/>
 </p>
