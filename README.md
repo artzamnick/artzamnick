@@ -106,6 +106,9 @@ Responsive coffee shop landing page with interactive UI components and structure
 </tr>
 </table>
 
+<tr>
+<td colspan="2">
+
 <h3>🎨 WebStudio</h3>
 
 <p>
@@ -114,18 +117,21 @@ Responsive coffee shop landing page with interactive UI components and structure
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 
-Responsive multi-page website with semantic structure, adaptive design, optimized assets, and clean section organization.
+Responsive multi-page website created with semantic HTML, adaptive CSS layout, optimized images, and structured sections such as Studio, Portfolio, Team, and Footer.
 
-🔗 <a href="https://artzamnick.github.io/WebStudio/">Live Demo</a>
+<b>Highlights:</b>
+<ul>
+<li>Multi-page layout</li>
+<li>Responsive design</li>
+<li>Semantic markup</li>
+<li>Optimized assets</li>
+</ul>
 
----
+<a href="https://artzamnick.github.io/WebStudio/">🔗 Live Demo</a>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=artzamnick&theme=tokyo-night&hide_border=true"/>
-</p>
-```
+</td>
+</tr>
 
- 
  ## 🗣️ Languages
 <p>
   <img src="https://img.shields.io/badge/Ukrainian-Native-blue?style=for-the-badge&logo=googletranslate&logoColor=white" />
