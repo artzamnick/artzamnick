@@ -1,6 +1,15 @@
-👋 Hi, I'm Artem - Junior Front-end developer HTML5 | CSS3 |  JavaScript | TypeScript | React.js | Next.js 2.0 | Node.js 4.0
+<h1 align="left">👋 Hi, I'm Artem</h1>
 
-Fullstack developer with a foundational skill set in HTML, CSS, and JavaScript. Focused on building user interfaces, implementing client-side functionality, and learning backend development to create complete web applications. Experienced with several training projects completed during the learning process and continuously improving my technical stack. Committed to writing clean code, using Git for version control, and growing as a Fullstack developer.
+<h3 align="left">
+Junior Fullstack Developer | React • Next.js • Node.js
+</h3>
+
+<p align="left">
+Passionate about building modern web applications with clean UI, scalable architecture, and responsive design.
+Focused on frontend development with React and Next.js while actively growing backend skills with Node.js, Express, and MongoDB.
+
+I enjoy turning ideas into real projects, improving code quality, and collaborating in team environments using Git workflows and Agile practices.
+</p>
 
 ## 🧰 Tech Stack
 <p align="left">
