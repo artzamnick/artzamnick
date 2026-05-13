@@ -11,7 +11,10 @@
 
 ## 💻 Featured Projects
 
-### 👶 Leleka
+<details>
+<summary><b>👶 Leleka</b> — Pregnancy Support Platform</summary>
+
+<br>
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js"/>
@@ -19,19 +22,31 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
 </p>
 
-Team-based pregnancy support web application with dashboard analytics, diary/task management, responsive modals, and adaptive loaders.
+Team-based pregnancy support web application built with Next.js, React, TypeScript, and modern frontend architecture.
 
-✨ My contribution:
+✨ Features:
+- Themed responsive UI
+- Dashboard analytics
+- Diary & task management
+- Responsive modal system
+- Adaptive loaders
+
+🛠 My contribution:
 - ConfirmationModal implementation
 - Adaptive Loader system
 - Project documentation (README)
-- Collaborative GitHub workflow
+- GitHub collaboration workflow
 
 🔗 <a href="https://project-1-front-nu.vercel.app">Live Demo</a>
 
+</details>
+
 ---
 
-### 📝 NoteHub
+<details>
+<summary><b>📝 NoteHub</b> — Fullstack Notes App</summary>
+
+<br>
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js"/>
@@ -48,12 +63,18 @@ Fullstack notes management application built with Next.js App Router, React Quer
 - Pagination
 - Debounced search
 - SSR hydration
+- Cookie-based authentication
 
 🔗 <a href="https://09-auth-gold-beta.vercel.app">Live Demo</a>
 
+</details>
+
 ---
 
-### 🐾 Paw Haven
+<details>
+<summary><b>🐾 Paw Haven</b> — Team Frontend Project</summary>
+
+<br>
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5"/>
@@ -63,16 +84,21 @@ Fullstack notes management application built with Next.js App Router, React Quer
 
 Team-based frontend project focused on semantic markup, accessibility, responsive layout, and collaborative GitHub workflow.
 
-✨ My contribution:
+🛠 My contribution:
 - Footer implementation
 - README documentation
 - Pull request workflow
 
 🔗 <a href="https://wiktor-bruy.github.io/paw-haven/">Live Demo</a>
 
+</details>
+
 ---
 
-### ☕ CoffeeJoy
+<details>
+<summary><b>☕ CoffeeJoy</b> — Coffee Shop Landing Page</summary>
+
+<br>
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5"/>
@@ -80,19 +106,24 @@ Team-based frontend project focused on semantic markup, accessibility, responsiv
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 
-Responsive coffee shop landing page with interactive UI components and adaptive layout.
+Responsive coffee shop landing page with interactive UI elements and adaptive layout.
 
-✨ My role:
+🛠 My role:
 - Scrum Master
+- Task planning
 - Workflow organization
 - Team communication
-- Task planning
 
 🔗 <a href="https://dronsofiia.github.io/project-CoffeeJoy10/">Live Demo</a>
 
+</details>
+
 ---
 
-### 🎨 WebStudio
+<details>
+<summary><b>🎨 WebStudio</b> — Responsive Multi-page Website</summary>
+
+<br>
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5"/>
@@ -100,15 +131,17 @@ Responsive coffee shop landing page with interactive UI components and adaptive 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 
-Responsive multi-page website with semantic structure, adaptive design, optimized images, and clean section organization.
+Responsive multi-page website with semantic structure, adaptive design, optimized assets, and clean section organization.
 
 ✨ Highlights:
 - Multi-page layout
 - Responsive design
 - Semantic markup
-- Optimized assets
+- Optimized images
 
 🔗 <a href="https://artzamnick.github.io/WebStudio/">Live Demo</a>
+
+</details>
 
  ## 🗣️ Languages
 <p>
