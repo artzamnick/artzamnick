@@ -10,18 +10,121 @@
 </p>
 
 ## 💻 Featured Projects
-- [Leleka](https://project-1-front-nu.vercel.app)
-– a team-based pregnancy support web application built with Next.js, React, TypeScript, and modern frontend architecture. Features themed UI, dashboard analytics, diary/task management, responsive modal system, and adaptive loaders. My contribution: implementation of the ConfirmationModal component, Loader system, and project documentation (README) via collaborative GitHub workflow.
-- [NoteHub](https://09-auth-gold-beta.vercel.app)
-– NoteHub — a full-stack notes management application built with Next.js (App Router), React, TypeScript, and React Query. Features authentication, protected routes, category filtering, pagination, debounced search, and responsive design. Includes SSR data hydration, API routes, and cookie-based authentication.
-- [paw-haven](https://wiktor-bruy.github.io/paw-haven/)
- – paw-haven — a team-based frontend project built as a single-page website.
-The project focuses on clean semantic markup, responsive layout, accessibility, and collaborative development using GitHub workflow (feature branches, pull requests, and code reviews).
-My contribution: implementation of the Footer section and project documentation (README) via merged pull requests.
- - [CoffeeJoy-team](https://dronsofiia.github.io/project-CoffeeJoy10/)
- – a team-based web project built with HTML, CSS, and JavaScript. Includes responsive layout, structured page sections, interactive UI elements, and clean component organization. Contributed as a Scrum Master, managing task planning, workflow organization, and communication within the team.
-- [WebStudio](https://artzamnick.github.io/WebStudio/)
- – a responsive multi-page website created using HTML, CSS, and JavaScript. The project includes semantic layout, adaptive design, optimized images, and structured sections such as Studio, Portfolio, Team, and Footer.
+<table>
+<tr>
+<td width="50%">
+
+<h3>👶 Leleka</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
+</p>
+
+Team-based pregnancy support platform with dashboard analytics, diary & task management, responsive modal system, and adaptive loaders.
+
+✨ My contribution:
+- ConfirmationModal component
+- Adaptive Loader system
+- Project documentation (README)
+- GitHub collaboration workflow
+
+🔗 <a href="https://project-1-front-nu.vercel.app">Live Demo</a>
+
+</td>
+
+<td width="50%">
+
+<h3>📝 NoteHub</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js"/>
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=react-query"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
+</p>
+
+Fullstack notes management application built with Next.js App Router, React Query, and TypeScript.
+
+✨ Features:
+- Authentication
+- Protected routes
+- Category filtering
+- Pagination
+- Debounced search
+- SSR hydration
+- Cookie-based auth
+
+🔗 <a href="https://09-auth-gold-beta.vercel.app">Live Demo</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<h3>🐾 Paw Haven</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+Team-based responsive frontend project focused on accessibility, semantic markup, and collaborative GitHub workflow.
+
+✨ My contribution:
+- Footer implementation
+- README documentation
+- Pull request workflow
+
+🔗 <a href="https://wiktor-bruy.github.io/paw-haven/">Live Demo</a>
+
+</td>
+
+<td width="50%">
+
+<h3>☕ CoffeeJoy</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+Responsive coffee shop landing page with interactive UI components and structured responsive layout.
+
+✨ My role:
+- Scrum Master
+- Workflow organization
+- Team communication
+- Task planning
+
+🔗 <a href="https://dronsofiia.github.io/project-CoffeeJoy10/">Live Demo</a>
+
+</td>
+</tr>
+</table>
+
+<h3>🎨 WebStudio</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+Responsive multi-page website with semantic structure, adaptive design, optimized assets, and clean section organization.
+
+🔗 <a href="https://artzamnick.github.io/WebStudio/">Live Demo</a>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=artzamnick&theme=tokyo-night&hide_border=true"/>
+</p>
+```
+
  
  ## 🗣️ Languages
 <p>
