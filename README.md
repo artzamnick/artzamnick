@@ -11,11 +11,7 @@
 
 ## 💻 Featured Projects
 
-<table>
-<tr>
-<td colspan="2">
-
-<h3>👶 Leleka</h3>
+### 👶 Leleka
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js"/>
@@ -23,34 +19,19 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
 </p>
 
-Team-based pregnancy support web application built with Next.js, React, TypeScript, and modern frontend architecture.
+Team-based pregnancy support web application with dashboard analytics, diary/task management, responsive modals, and adaptive loaders.
 
-✨ Features:
-<ul>
-<li>Themed responsive UI</li>
-<li>Dashboard analytics</li>
-<li>Diary & task management</li>
-<li>Responsive modal system</li>
-<li>Adaptive loaders</li>
-</ul>
+✨ My contribution:
+- ConfirmationModal implementation
+- Adaptive Loader system
+- Project documentation (README)
+- Collaborative GitHub workflow
 
-<b>My contribution:</b>
-<ul>
-<li>ConfirmationModal implementation</li>
-<li>Adaptive Loader system</li>
-<li>Project documentation (README)</li>
-<li>Collaborative GitHub workflow</li>
-</ul>
+🔗 <a href="https://project-1-front-nu.vercel.app">Live Demo</a>
 
-<a href="https://project-1-front-nu.vercel.app">🔗 Live Demo</a>
+---
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-<h3>📝 NoteHub</h3>
+### 📝 NoteHub
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js"/>
@@ -61,22 +42,18 @@ Team-based pregnancy support web application built with Next.js, React, TypeScri
 Fullstack notes management application built with Next.js App Router, React Query, and TypeScript.
 
 ✨ Features:
-<ul>
-<li>Authentication</li>
-<li>Protected routes</li>
-<li>Category filtering</li>
-<li>Pagination</li>
-<li>Debounced search</li>
-<li>SSR hydration</li>
-</ul>
+- Authentication
+- Protected routes
+- Category filtering
+- Pagination
+- Debounced search
+- SSR hydration
 
-<a href="https://09-auth-gold-beta.vercel.app">🔗 Live Demo</a>
+🔗 <a href="https://09-auth-gold-beta.vercel.app">Live Demo</a>
 
-</td>
+---
 
-<td width="50%">
-
-<h3>🐾 Paw Haven</h3>
+### 🐾 Paw Haven
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5"/>
@@ -84,24 +61,18 @@ Fullstack notes management application built with Next.js App Router, React Quer
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 
-Team-based frontend project focused on accessibility, semantic markup, responsive layout, and collaborative GitHub workflow.
+Team-based frontend project focused on semantic markup, accessibility, responsive layout, and collaborative GitHub workflow.
 
-<b>My contribution:</b>
-<ul>
-<li>Footer implementation</li>
-<li>README documentation</li>
-<li>Pull request workflow</li>
-</ul>
+✨ My contribution:
+- Footer implementation
+- README documentation
+- Pull request workflow
 
-<a href="https://wiktor-bruy.github.io/paw-haven/">🔗 Live Demo</a>
+🔗 <a href="https://wiktor-bruy.github.io/paw-haven/">Live Demo</a>
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%">
-
-<h3>☕ CoffeeJoy</h3>
+### ☕ CoffeeJoy
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5"/>
@@ -109,23 +80,19 @@ Team-based frontend project focused on accessibility, semantic markup, responsiv
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 
-Responsive coffee shop landing page with interactive UI elements and adaptive layout.
+Responsive coffee shop landing page with interactive UI components and adaptive layout.
 
-<b>My role:</b>
-<ul>
-<li>Scrum Master</li>
-<li>Task planning</li>
-<li>Workflow organization</li>
-<li>Team communication</li>
-</ul>
+✨ My role:
+- Scrum Master
+- Workflow organization
+- Team communication
+- Task planning
 
-<a href="https://dronsofiia.github.io/project-CoffeeJoy10/">🔗 Live Demo</a>
+🔗 <a href="https://dronsofiia.github.io/project-CoffeeJoy10/">Live Demo</a>
 
-</td>
+---
 
-<td width="50%">
-
-<h3>🎨 WebStudio</h3>
+### 🎨 WebStudio
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5"/>
@@ -133,21 +100,15 @@ Responsive coffee shop landing page with interactive UI elements and adaptive la
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 
-Responsive multi-page website with semantic structure, adaptive design, optimized assets, and clean section organization.
+Responsive multi-page website with semantic structure, adaptive design, optimized images, and clean section organization.
 
 ✨ Highlights:
-<ul>
-<li>Multi-page layout</li>
-<li>Responsive design</li>
-<li>Semantic markup</li>
-<li>Optimized images</li>
-</ul>
+- Multi-page layout
+- Responsive design
+- Semantic markup
+- Optimized assets
 
-<a href="https://artzamnick.github.io/WebStudio/">🔗 Live Demo</a>
-
-</td>
-</tr>
-</table>
+🔗 <a href="https://artzamnick.github.io/WebStudio/">Live Demo</a>
 
  ## 🗣️ Languages
 <p>
