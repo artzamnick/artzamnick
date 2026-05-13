@@ -2,12 +2,12 @@
 
 Fullstack developer with a foundational skill set in HTML, CSS, and JavaScript. Focused on building user interfaces, implementing client-side functionality, and learning backend development to create complete web applications. Experienced with several training projects completed during the learning process and continuously improving my technical stack. Committed to writing clean code, using Git for version control, and growing as a Fullstack developer.
 
-🧰 Tech Stack  
+## 🧰 Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mongodb,git,github,vscode,figma" />
 </p>
 
-💻Featured Projects
+<h2>💻 Featured Projects</h2>
 - [NoteHub](https://09-auth-gold-beta.vercel.app)
 – NoteHub — a full-stack notes management application built with Next.js (App Router), React, TypeScript, and React Query. Features authentication, protected routes, category filtering, pagination, debounced search, and responsive design. Includes SSR data hydration, API routes, and cookie-based authentication.
 - [paw-haven](https://wiktor-bruy.github.io/paw-haven/)
@@ -19,11 +19,11 @@ My contribution: implementation of the Footer section and project documentation 
 - [WebStudio](https://artzamnick.github.io/WebStudio/)
  – a responsive multi-page website created using HTML, CSS, and JavaScript. The project includes semantic layout, adaptive design, optimized images, and structured sections such as Studio, Portfolio, Team, and Footer.
  
- 🗣️ Languages
+ <h2>🗣️ Languages</h2>
 - ![English](https://img.shields.io/badge/English-A2-lightgrey?style=flat-square)
 - ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 - ![Polish](https://img.shields.io/badge/Polish-A2-lightgrey?style=flat-square)
 - ![Russian](https://img.shields.io/badge/Russian-C2-lightgreen?style=flat-square)
 
-📫 How to reach me:
+<h2>📫 How to reach me</h2>
 - [LinkedIn](https://www.linkedin.com/in/artem-zamrii/) | [Telegram](https://t.me/svii_adm) | [Email](a.m.zamriy@gmail.com)
