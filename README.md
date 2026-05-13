@@ -170,8 +170,6 @@ Responsive multi-page website with semantic structure, adaptive design, optimize
 
 ## 📊 GitHub Stats
 
-<h2>📊 GitHub Stats</h2>
-
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artzamnick&show_icons=true&theme=tokyonight&hide_border=true"/>
 
